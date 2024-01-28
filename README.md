@@ -21,5 +21,9 @@ wordcloud
 步骤二
 编写python代码进行数据可视化
 
+
+file
+data_analysis.py 为数据可视化代码
+stopwords_hit.txt 为哈工大停词表
 reference
 https://github.com/LC044/WeChatMsg
